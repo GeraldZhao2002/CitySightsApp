@@ -11,7 +11,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		CBFBF7A62DBCAADA001EF511 /* Exceptions for "CitySightsApp" folder in "CitySightsApp" target */ = {
+		CBFBF7AD2DBCB2F7001EF511 /* Exceptions for "CitySightsApp" folder in "CitySightsApp" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -24,7 +24,7 @@
 		CBFBF7942DBCA72C001EF511 /* CitySightsApp */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				CBFBF7A62DBCAADA001EF511 /* Exceptions for "CitySightsApp" folder in "CitySightsApp" target */,
+				CBFBF7AD2DBCB2F7001EF511 /* Exceptions for "CitySightsApp" folder in "CitySightsApp" target */,
 			);
 			path = CitySightsApp;
 			sourceTree = "<group>";
